@@ -11,7 +11,7 @@
   ## Load activity names
   activities<-read.table("./UCI HAR Dataset/activity_labels.txt")
   
-  ## Load column names from file
+  ## Load features
   features <- read.table("./UCI HAR Dataset/features.txt")
   
   ## 1) Merges the training and the test sets to create one data set.
