@@ -9,5 +9,4 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 Extract these files in your working directory an run the script.
 
-Once the script is finished, we will have a file ("tidy_dataset.txt") in the directory with the result. 
-with the result.
+Once the script is finished, we will have a file ("tidy_dataset.txt") in the directory with the result.
